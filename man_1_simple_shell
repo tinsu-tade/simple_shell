@@ -1,0 +1,17 @@
+.TH simple_shell 1 "Dec 2021" Unix "User Manuals"
+.SH NAME
+simple_shell \- team project to write our own shell
+.SH SYNOPSIS
+.N no options ara available for this command
+.SH DESCRIPTIONS
+simple_shell tells everything about the overall process in the project.
+.SH OPTIONS
+no options are available for this command.
+.SH FILES
+no files have been used by this command.
+.SH DIAGNOSTIC
+you can issue different diagnostic issues.
+.SH BUGS
+no identified bugs yet.
+.SH AUTHOR
+Tinsae Tadese <ttktadesetinsae@gmail.com>
